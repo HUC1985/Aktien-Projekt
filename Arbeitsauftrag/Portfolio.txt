@@ -1,0 +1,6 @@
+﻿Id ";" Datum ";" Symbol ";" Anzahl (Anzahl Aktien im Portfolio zu diesem 
+Zeitpunkt)
+1;2020-03-01;MSFT;45
+2;2020-02-15;AMD;23
+3;2020-02-12;BMW;15
+4;2020-03-15;AMD;30

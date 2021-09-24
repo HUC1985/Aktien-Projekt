@@ -1,0 +1,7 @@
+﻿Id ";" Datum ";" Markt ";" Symbol ";" Name ";" Wert 
+1;2020-03-01;DowJones;BA;Boeing;135.20
+2;2020-03-01;Nasdaq;MSFT;Microsoft;165.13
+3;2020-03-01;Nasdaq;AMD;Advanced Micro Devices;48.79
+4;2020-03-01;SMI;ABB;ASEA BROWN BOVERI;17.20
+5;2020-03-01;DAX;BMW;Bayerische Motoren Werke AG;49.10
+6;2020-03-02;Nasdaq;MSFT;Microsoft;166.13
